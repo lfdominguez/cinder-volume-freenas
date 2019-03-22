@@ -1,3 +1,9 @@
+python-cinder-freenas (0.2.1-1ubuntu2) bionic; urgency=high
+
+  * The FreeNAS api to create a iSCSI target need the "iscsi_lunid" parameter.
+
+ -- Luis Felipe Domínguez Vega <ldominguezvega@gmail.com>  Fri, 22 Mar 2019 08:13:22 -0400
+
 python-cinder-freenas (0.2-1ubuntu2) bionic; urgency=medium
 
   * Passed to Bionic ubuntu release

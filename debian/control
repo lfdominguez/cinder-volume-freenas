@@ -1,7 +1,7 @@
 Source: python-cinder-freenas
 Section: python
 Priority: optional
-Maintainer: Liam Young <liam.young@canonical.com>
+Maintainer: Luis Felipe Domínguez Vega <ldominguezvega@gmail.com>
 Build-Depends: debhelper (>= 10)
 Standards-Version: 4.1.2
 Homepage: https://github.com/iXsystems/cinder
@@ -11,4 +11,4 @@ Architecture: all
 Depends:
  python-cinder,
  ${misc:Depends},
-Description: Dummy description
+Description: FreeNAS Cinder volume API
