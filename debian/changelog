@@ -1,0 +1,17 @@
+python-cinder-freenas (0.2-1ubuntu2) bionic; urgency=medium
+
+  * Passed to Bionic ubuntu release
+
+ -- Luis Felipe Domínguez Vega <ldominguezvega@gmail.com>  Tue, 19 Mar 2019 19:49:46 +0000
+
+python-cinder-freenas (0.2-1ubuntu1) xenial; urgency=medium
+
+  * Test
+
+ -- Liam Young <liam.young@canonical.com>  Mon, 14 Jan 2019 09:26:46 +0000
+
+python-cinder-freenas (0.2-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- liam <liam@unknown>  Mon, 14 Jan 2019 09:24:37 +0000
